@@ -1,0 +1,7 @@
+body{
+    margin:0;
+    height:100%;
+    background-color: #1F9585;
+    background-image: url("./endless-constellation.svg");
+    font-family: Poppins, serif;
+}
